@@ -49,6 +49,14 @@ Docker (learning), Flask, Playwright (learning), MTCNA Certified in Networking
 
 ---
 
+## 🎓 Education & Certifications
+
+- **Bachelor's Degree in Information Technology** – Riga Technical University  
+- **ISTQB Certified** – Foundation Level & Advanced Level Test Analyst  
+- **MTCNA Certified** – MikroTik Certified Network Associate
+- **Web Automation with Java and Selenium certificate** - TDL School
+---
+
 ## 🌐 Languages
 
 - English 🇬🇧 (Fluent)  
