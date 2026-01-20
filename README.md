@@ -20,7 +20,7 @@ I'm a certified QA Engineer from Latvia with a bachelors degree in software engi
 Python, Java, JavaScript, C#, PHP, HTML, SCSS, SQL  
 
 **Tools & Platforms**  
-TestRail, Jira, Confluence, Git, Selenium, Microsoft Office  
+TestRail, BrowserStack, Jira, Confluence, Git, Selenium, Microsoft Office  
 
 **Databases**  
 Oracle, MariaDB, Microsoft SQL Server  
