@@ -42,7 +42,7 @@ Docker (learning), Flask, Playwright (learning), MTCNA Certified in Networking
 
 ## 💼 Work Experience
 
-- **QA Engineer** @ TestDevLab (Sept 2024 – Present)  
+- **QA Engineer** @ TestDevLab (Sept 2024 – Apr 2026)  
 - **Website Administrator** @ Premium Solutions (Apr 2024 – Jun 2024)  
 - **.NET Developer Intern** @ LDC Datortehnika  
   (Apr 2023 – Jul 2023, Oct 2023 – Jan 2024)
